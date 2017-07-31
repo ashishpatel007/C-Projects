@@ -1,4 +1,4 @@
-﻿/*
+﻿﻿/*
  * Create a class representing a student. Include characteristics such as student
  * number, first and last name, overall GPA, classification, and major. Write at
  * least two constructors. Include properties for each of the data items. Create a 
@@ -14,7 +14,8 @@ namespace StudentInformation
     {
         static void Main(string[] args)
         {
-           
+            StudentDetails sd = new StudentDetails();
+            sd.displayOutput();
         }
     }
 }

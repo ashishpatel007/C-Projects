@@ -1,7 +1,9 @@
 ﻿<Properties StartupConfiguration="{A02E7D16-42BE-4D34-960F-68F0940DBC8E}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="StudentInformation/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="StudentInformation/StudentDetails.cs">
     <Files>
-      <File FileName="StudentInformation/Program.cs" Line="5" Column="11" />
+      <File FileName="StudentInformation/Program.cs" Line="7" Column="4" />
+      <File FileName="StudentInformation/Student.cs" Line="4" Column="5" />
+      <File FileName="StudentInformation/StudentDetails.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ClassPad">
@@ -9,7 +11,7 @@
           <Node name="StudentInformation" expanded="True">
             <Node name="StudentInformation" expanded="True">
               <Node name="StudentInformation" expanded="True">
-                <Node name="StudentInformation.Program" selected="True" />
+                <Node name="StudentInformation.Program" expanded="True" selected="True" />
               </Node>
             </Node>
           </Node>
@@ -17,7 +19,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

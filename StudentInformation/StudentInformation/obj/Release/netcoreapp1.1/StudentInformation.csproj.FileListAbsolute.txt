@@ -1,0 +1,10 @@
+/Users/ashishpatel/Projects/StudentInformation/StudentInformation/bin/Release/netcoreapp1.1/StudentInformation.deps.json
+/Users/ashishpatel/Projects/StudentInformation/StudentInformation/bin/Release/netcoreapp1.1/StudentInformation.runtimeconfig.json
+/Users/ashishpatel/Projects/StudentInformation/StudentInformation/bin/Release/netcoreapp1.1/StudentInformation.runtimeconfig.dev.json
+/Users/ashishpatel/Projects/StudentInformation/StudentInformation/bin/Release/netcoreapp1.1/StudentInformation.dll
+/Users/ashishpatel/Projects/StudentInformation/StudentInformation/bin/Release/netcoreapp1.1/StudentInformation.pdb
+/Users/ashishpatel/Projects/StudentInformation/StudentInformation/obj/Release/netcoreapp1.1/StudentInformation.csprojResolveAssemblyReference.cache
+/Users/ashishpatel/Projects/StudentInformation/StudentInformation/obj/Release/netcoreapp1.1/StudentInformation.csproj.CoreCompileInputs.cache
+/Users/ashishpatel/Projects/StudentInformation/StudentInformation/obj/Release/netcoreapp1.1/StudentInformation.AssemblyInfo.cs
+/Users/ashishpatel/Projects/StudentInformation/StudentInformation/obj/Release/netcoreapp1.1/StudentInformation.dll
+/Users/ashishpatel/Projects/StudentInformation/StudentInformation/obj/Release/netcoreapp1.1/StudentInformation.pdb
