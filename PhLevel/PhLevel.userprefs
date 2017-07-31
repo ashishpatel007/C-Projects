@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{C007EC3F-065C-409C-9F85-369E5DCB9D9F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PhLevel/Program.cs">
+    <Files>
+      <File FileName="PhLevel/Program.cs" Line="18" Column="17" />
+    </Files>
+    <Pads>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="PhLevel" expanded="True">
+            <Node name="PhLevel" expanded="True">
+              <Node name="PhLevel" expanded="True">
+                <Node name="PhLevel.Program" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.PhLevel PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

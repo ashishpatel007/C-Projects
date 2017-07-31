@@ -1,0 +1,10 @@
+/Users/ashishpatel/Projects/PhLevel/PhLevel/bin/Debug/netcoreapp1.1/PhLevel.deps.json
+/Users/ashishpatel/Projects/PhLevel/PhLevel/bin/Debug/netcoreapp1.1/PhLevel.runtimeconfig.json
+/Users/ashishpatel/Projects/PhLevel/PhLevel/bin/Debug/netcoreapp1.1/PhLevel.runtimeconfig.dev.json
+/Users/ashishpatel/Projects/PhLevel/PhLevel/bin/Debug/netcoreapp1.1/PhLevel.dll
+/Users/ashishpatel/Projects/PhLevel/PhLevel/bin/Debug/netcoreapp1.1/PhLevel.pdb
+/Users/ashishpatel/Projects/PhLevel/PhLevel/obj/Debug/netcoreapp1.1/PhLevel.csprojResolveAssemblyReference.cache
+/Users/ashishpatel/Projects/PhLevel/PhLevel/obj/Debug/netcoreapp1.1/PhLevel.csproj.CoreCompileInputs.cache
+/Users/ashishpatel/Projects/PhLevel/PhLevel/obj/Debug/netcoreapp1.1/PhLevel.AssemblyInfo.cs
+/Users/ashishpatel/Projects/PhLevel/PhLevel/obj/Debug/netcoreapp1.1/PhLevel.dll
+/Users/ashishpatel/Projects/PhLevel/PhLevel/obj/Debug/netcoreapp1.1/PhLevel.pdb
