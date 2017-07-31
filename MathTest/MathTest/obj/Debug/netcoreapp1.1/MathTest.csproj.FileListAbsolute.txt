@@ -1,0 +1,10 @@
+/Users/ashishpatel/Projects/MathTest/MathTest/bin/Debug/netcoreapp1.1/MathTest.deps.json
+/Users/ashishpatel/Projects/MathTest/MathTest/bin/Debug/netcoreapp1.1/MathTest.runtimeconfig.json
+/Users/ashishpatel/Projects/MathTest/MathTest/bin/Debug/netcoreapp1.1/MathTest.runtimeconfig.dev.json
+/Users/ashishpatel/Projects/MathTest/MathTest/obj/Debug/netcoreapp1.1/MathTest.csprojResolveAssemblyReference.cache
+/Users/ashishpatel/Projects/MathTest/MathTest/obj/Debug/netcoreapp1.1/MathTest.csproj.CoreCompileInputs.cache
+/Users/ashishpatel/Projects/MathTest/MathTest/obj/Debug/netcoreapp1.1/MathTest.AssemblyInfo.cs
+/Users/ashishpatel/Projects/MathTest/MathTest/bin/Debug/netcoreapp1.1/MathTest.dll
+/Users/ashishpatel/Projects/MathTest/MathTest/bin/Debug/netcoreapp1.1/MathTest.pdb
+/Users/ashishpatel/Projects/MathTest/MathTest/obj/Debug/netcoreapp1.1/MathTest.dll
+/Users/ashishpatel/Projects/MathTest/MathTest/obj/Debug/netcoreapp1.1/MathTest.pdb

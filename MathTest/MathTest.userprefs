@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{2ADED8AD-D7DB-4C92-9201-8AFD3F15064F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MathTest/TestMonth.cs">
+    <Files>
+      <File FileName="MathTest/Month.cs" Line="81" Column="93" />
+      <File FileName="MathTest/TestMonth.cs" Line="14" Column="19" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MathTest" expanded="True">
+            <Node name="MathTest" expanded="True">
+              <Node name="TestMonth.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="MathTest" expanded="True" selected="True">
+            <Node name="MathTest" expanded="True">
+              <Node name="MathTest" expanded="True">
+                <Node name="MathTest.Program" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MathTest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
