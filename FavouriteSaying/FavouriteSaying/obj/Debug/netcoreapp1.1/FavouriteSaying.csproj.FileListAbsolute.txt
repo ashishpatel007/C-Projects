@@ -1,0 +1,10 @@
+/Users/ashishpatel/Projects/FavouriteSaying/FavouriteSaying/bin/Debug/netcoreapp1.1/FavouriteSaying.deps.json
+/Users/ashishpatel/Projects/FavouriteSaying/FavouriteSaying/bin/Debug/netcoreapp1.1/FavouriteSaying.runtimeconfig.json
+/Users/ashishpatel/Projects/FavouriteSaying/FavouriteSaying/bin/Debug/netcoreapp1.1/FavouriteSaying.runtimeconfig.dev.json
+/Users/ashishpatel/Projects/FavouriteSaying/FavouriteSaying/bin/Debug/netcoreapp1.1/FavouriteSaying.dll
+/Users/ashishpatel/Projects/FavouriteSaying/FavouriteSaying/bin/Debug/netcoreapp1.1/FavouriteSaying.pdb
+/Users/ashishpatel/Projects/FavouriteSaying/FavouriteSaying/obj/Debug/netcoreapp1.1/FavouriteSaying.csprojResolveAssemblyReference.cache
+/Users/ashishpatel/Projects/FavouriteSaying/FavouriteSaying/obj/Debug/netcoreapp1.1/FavouriteSaying.csproj.CoreCompileInputs.cache
+/Users/ashishpatel/Projects/FavouriteSaying/FavouriteSaying/obj/Debug/netcoreapp1.1/FavouriteSaying.AssemblyInfo.cs
+/Users/ashishpatel/Projects/FavouriteSaying/FavouriteSaying/obj/Debug/netcoreapp1.1/FavouriteSaying.dll
+/Users/ashishpatel/Projects/FavouriteSaying/FavouriteSaying/obj/Debug/netcoreapp1.1/FavouriteSaying.pdb
